@@ -1,0 +1,17 @@
+* {
+    font-family: 'poppins', sans-serif;
+}
+nav{
+    background-color:rgb(215, 214, 212);
+    border:  black solid 2px;
+}
+
+.banner {
+    background-image: url(/IMAGES/pexels-lukas-349610.jpg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skillspadding {
+    padding: 70px 0;
+}
